@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "힐스테이트 도안리버파크", url: "https://www.marvelpartners.co.kr/" },
+  { name: "힐스테이트 도안리버파크", url: "https://www.apay.co.kr/" },
 
 ];
 
